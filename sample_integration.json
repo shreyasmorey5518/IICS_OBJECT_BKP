@@ -1,0 +1,32 @@
+{
+  "objects": [
+    {
+      "name": "Source_HCP",
+      "type": "Source"
+    },
+    {
+      "name": "Target_HCP",
+      "type": "Target"
+    },
+    {
+      "name": "Mapping_HCP_Data",
+      "type": "Mapping"
+    },
+    {
+      "name": "Taskflow_HCP_Process",
+      "type": "Taskflow"
+    },
+    {
+      "name": "Lookup_Country",
+      "type": "Lookup"
+    },
+    {
+      "name": "Transformation_Filter",
+      "type": "Transformation"
+    },
+    {
+      "name": "Schedule_HCP_Trigger",
+      "type": "Schedule"
+    }
+  ]
+}
