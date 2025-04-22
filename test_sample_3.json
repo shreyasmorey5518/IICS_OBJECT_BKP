@@ -1,0 +1,28 @@
+{
+  "exportedObjects": [
+    {
+      "objectName": "amer_sales_template",
+      "objectType": "DTEMPLATE",
+      "objectGuid": "guid-dtemp1",
+      "path": "/Templates/Sales",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Template for AMER sales",
+          "documentState": "VALID"
+        }
+      }
+    },
+    {
+      "objectName": "migration_folder",
+      "objectType": "Folder",
+      "objectGuid": "guid-fold-1",
+      "path": "/Folders/Migration",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Migration folder for legacy systems",
+          "documentState": "VALID"
+        }
+      }
+    }
+  ]
+}
