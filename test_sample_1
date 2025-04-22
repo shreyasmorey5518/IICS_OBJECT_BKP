@@ -1,0 +1,28 @@
+{
+  "exportedObjects": [
+    {
+      "objectName": "Taskflow_Customer_US",
+      "objectType": "WORKFLOW",
+      "objectGuid": "guid-12345",
+      "path": "/Workflows/Customer",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Customer onboarding flow",
+          "documentState": "VALID"
+        }
+      }
+    },
+    {
+      "objectName": "connection_sfdc_us",
+      "objectType": "Connection",
+      "objectGuid": "guid-67890",
+      "path": "/Connections/SFDC",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Salesforce Connection",
+          "documentState": "VALID"
+        }
+      }
+    }
+  ]
+}
