@@ -1,0 +1,28 @@
+{
+  "exportedObjects": [
+    {
+      "objectName": "stage_user_data",
+      "objectType": "MTT",
+      "objectGuid": "guid-abcde",
+      "path": "/Mappings/Stage",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Stage mapping for user data",
+          "documentState": "COMPLETE"
+        }
+      }
+    },
+    {
+      "objectName": "agentgroup_europe",
+      "objectType": "AgentGroup",
+      "objectGuid": "guid-xyz123",
+      "path": "/AgentGroups/EU",
+      "metadata": {
+        "additionalInfo": {
+          "description": "European agents group",
+          "documentState": "VALID"
+        }
+      }
+    }
+  ]
+}
