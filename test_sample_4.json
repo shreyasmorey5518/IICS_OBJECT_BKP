@@ -1,0 +1,28 @@
+{
+  "exportedObjects": [
+    {
+      "objectName": "sfdc_conn_read",
+      "objectType": "Connection",
+      "objectGuid": "guid-read001",
+      "path": "/Connections/SFDC_READ",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Read-only SFDC connection",
+          "documentState": "VALID"
+        }
+      }
+    },
+    {
+      "objectName": "postgres_conn",
+      "objectType": "Connection",
+      "objectGuid": "guid-postgres002",
+      "path": "/Connections/Postgres",
+      "metadata": {
+        "additionalInfo": {
+          "description": "PostgreSQL connection",
+          "documentState": "VALID"
+        }
+      }
+    }
+  ]
+}
