@@ -1,0 +1,28 @@
+{
+  "exportedObjects": [
+    {
+      "objectName": "MCT_US_DATA",
+      "objectType": "MCT",
+      "objectGuid": "guid-1235",
+      "path": "/MCT/Stage",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Stage MCT for US data",
+          "documentState": "COMPLETE"
+        }
+      }
+    },
+    {
+      "objectName": "aws-cloud-emea",
+      "objectType": "Runtime environment",
+      "objectGuid": "guid-xyz123",
+      "path": "/Cloud/runtime",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Cloud runtime environment",
+          "documentState": "VALID"
+        }
+      }
+    }
+  ]
+}
