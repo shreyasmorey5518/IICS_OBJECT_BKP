@@ -1,1 +1,28 @@
-
+{
+  "exportedObjects": [
+    {
+      "objectName": "TF_MCE_TEST_SAMPLE",
+      "objectType": "TASKFLOW",
+      "objectGuid": "guid-12345",
+      "path": "/taskflow/test",
+      "metadata": {
+        "additionalInfo": {
+          "description": "test sample",
+          "documentState": "VALID"
+        }
+      }
+    },
+    {
+      "objectName": "MCT_Test_sample",
+      "objectType": "MCT",
+      "objectGuid": "guid-67890",
+      "path": "/MCT/test",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Test MCT",
+          "documentState": "VALID"
+        }
+      }
+    }
+  ]
+}
