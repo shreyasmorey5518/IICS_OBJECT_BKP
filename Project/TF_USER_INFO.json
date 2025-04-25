@@ -1,0 +1,64 @@
+{
+  "exportedObjects": [
+    {
+      "objectName": "TF_USER_INFO",
+      "objectType": "TASKFLOW",
+      "objectGuid": "guid-12345",
+      "path": "/Taskflow/User",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Customer onboarding flow",
+          "documentState": "VALID"
+        }
+      }
+    },
+    {
+      "objectName": "MCT_USER_INFO_US",
+      "objectType": "MCT",
+      "objectGuid": "guid-67890",
+      "path": "/MCT/User",
+      "metadata": {
+        "additionalInfo": {
+          "description": "MCT for US user information",
+          "documentState": "VALID"
+        }
+      }
+    },
+     {
+      "objectName": "M_USER_INFO_US",
+      "objectType": "Mapping",
+      "objectGuid": "guid-12345",
+      "path": "/Mapping/User",
+      "metadata": {
+        "additionalInfo": {
+          "description": "User_info",
+          "documentState": "VALID"
+        }
+      }
+    },
+     {
+      "objectName": "emea_cloud_runtime",
+      "objectType": "Runtime Environment",
+      "objectGuid": "guid-12345",
+      "path": "/Runtime/Cloud",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Runtime Environment",
+          "documentState": "VALID"
+        }
+      }
+    },
+     {
+      "objectName": "EMEA_S3_AWS",
+      "objectType": "Connection",
+      "objectGuid": "guid-12345",
+      "path": "/AWS/S3",
+      "metadata": {
+        "additionalInfo": {
+          "description": "Connection",
+          "documentState": "VALID"
+        }
+      }
+    }
+  ]
+}
